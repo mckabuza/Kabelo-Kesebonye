@@ -2288,7 +2288,7 @@ input, select, textarea {
 			position: relative;
 		}
 
-		#contact.inactive .box {
+		#contact.active .box {
 			-moz-transform: translateY(100%);
 			-webkit-transform: translateY(100%);
 			-ms-transform: translateY(100%);
